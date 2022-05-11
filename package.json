@@ -1,0 +1,14 @@
+{
+  "name": "electron-custom-titlebar",
+  "version": "1.0.0",
+  "description": "Simple electron application with customisable titlebar!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "helloimdome",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
