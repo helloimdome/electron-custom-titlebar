@@ -1,6 +1,6 @@
 # Custom Titlebar in Electron
 
-## What does this do? 🤨
+## What does this do?
 It adds a custom titlebar to an example electron application.
 You can even customize it via css.
 
